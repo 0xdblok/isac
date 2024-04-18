@@ -23,10 +23,10 @@ export default function About() {
       <div className="pt-8 px-10 gap-6 flex font-sans  text-gray-700 font-extrabold justify-center">
         <div>
           {" "}
-          <h1 className="">TOTAL SUPPLY : 1B</h1>
-          <h1 className=" ">DEV 5%</h1>
-          <h1 className="">MARKETING 15%</h1>
-          <h1 className="">LP LOCK 80%</h1>
+          <h1 className="text-center">TOTAL SUPPLY : 1B</h1>
+          <h1 className=" text-center">DEV 5%</h1>
+          <h1 className="text-center">MARKETING 15%</h1>
+          <h1 className="text-center">LP LOCK 80%</h1>
           <h1 className="text-center pt-12">CONTRACT ADDRESS</h1>
           <h1 className="text-center">
             0xe5697e57AF494d22aBF1884482d09ae47E27537c
