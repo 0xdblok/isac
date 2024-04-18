@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import logo from "../asset/logo.png";
-import donk from "../asset/donk.jpg";
+import donk from "../asset/donk.png";
 export default function Heroo() {
   return (
     <div className="lg:px-12 px-4 pt-12">
