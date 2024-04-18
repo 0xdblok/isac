@@ -20,13 +20,13 @@ export default function About() {
       <h1 className="rotate-180 c bg-clip-text text-transparent bg-gradient-to-b from-[#ffd29d] to-neutral-400 lg:text-4xl opacity-20 l font-extrabold font-sans text-2xl text-center  ">
         TOKENOMICS
       </h1>
-      <div className="pt-8 px-10 gap-6 flex justify-center">
+      <div className="pt-8 px-10 gap-6 flex font-sans  text-gray-700 font-extrabold justify-center">
         <div>
           {" "}
-          <h1>TOTAL SUPPLY : 1B</h1>
-          <h1 className="pt-2">DEV 5%</h1>
+          <h1 className="">TOTAL SUPPLY : 1B</h1>
+          <h1 className=" ">DEV 5%</h1>
           <h1 className="">MARKETING 15%</h1>
-          <h1>LP LOCK 80%</h1>
+          <h1 className="">LP LOCK 80%</h1>
         </div>
       </div>
     </div>
