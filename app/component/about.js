@@ -28,7 +28,9 @@ export default function About() {
           <h1 className="">MARKETING 15%</h1>
           <h1 className="">LP LOCK 80%</h1>
           <h1 className="text-center pt-12">CONTRACT ADDRESS</h1>
-          <h1 className="text-center">TBA</h1>
+          <h1 className="text-center">
+            0xe5697e57AF494d22aBF1884482d09ae47E27537c
+          </h1>
         </div>
       </div>
     </div>
