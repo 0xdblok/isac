@@ -5,7 +5,7 @@ export default function Buy() {
     <div>
       {" "}
       <div className="pt-36 font-sans">
-        <h1 className="lg:text-4xl font-extrabold font-sans text-2xl text-center  ">
+        <h1 className="lg:text-4xl font-extrabold font-sans text-2xl text-center bg-clip-text text-transparent bg-gradient-to-b from-[#ffd29d] to-neutral-400 ">
           HOW TO BUY
         </h1>
         <div className="lg:flex lg:gap-8 space-y-8 lg:space-y-0 pt-4 font-medium ">
