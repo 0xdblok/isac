@@ -8,7 +8,7 @@ export default function Buy() {
         <h1 className="lg:text-4xl font-extrabold font-sans text-2xl text-center bg-clip-text text-transparent bg-gradient-to-b from-[#ffd29d] to-neutral-400 ">
           HOW TO BUY
         </h1>
-        <div className="lg:flex lg:gap-8 space-y-8 lg:space-y-0 pt-4 font-medium ">
+        <div className="lg:flex px-10 lg:gap-8 space-y-8 lg:space-y-0 pt-4 font-medium ">
           <div className="border-2 border-yellow-400 shadow-xl bg-[#ffd29d] p-8 rounded-lg lg:w-1/4">
             <h1 className="text-center font-semibold">Create a Wallet</h1>
             <p className="text-sm text-center">
