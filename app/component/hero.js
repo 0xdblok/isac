@@ -15,12 +15,21 @@ export default function Heroo() {
             height="450"
           />
         </div>
-
         <div className="flex w-full justify-center items-center">
-          <p className="lg:text-4xl font-extrabold font-sans text-2xl pt-4 md:pt-0">
-            Isaaac Neewton
+          <p className="lg:text-4xl text-center font-extrabold font-sans text-2xl pt-4 md:pt-0">
+            Isaac Newton
+            <span>
+              {" "}
+              <p className="text-center text-base font-medium  font-sans md:pt-6 ">
+                In the historical backdrop of Woolsthorpe, the birthplace of Sir
+                Isaac Newton, a novel cryptocurrency was born—MOTION Memecoin.
+                The brainchild of this venture was a quirky group of crypto
+                enthusiasts who drew inspiration from Newton's groundbreaking
+                theories.
+              </p>
+            </span>
           </p>
-        </div>
+        </div>{" "}
       </div>{" "}
       <div className="pt-20 flex justify-center w-full ">
         <Image
