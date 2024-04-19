@@ -4,7 +4,7 @@ export default function Buy() {
   return (
     <div>
       {" "}
-      <div className="pt-36 font-sans">
+      <div className="pt-36 font-sans pb-8">
         <h1 className="lg:text-4xl font-extrabold font-sans text-2xl text-center bg-clip-text text-transparent bg-gradient-to-b from-[#ffd29d] to-neutral-400 ">
           HOW TO BUY
         </h1>
