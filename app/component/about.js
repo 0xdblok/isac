@@ -24,13 +24,9 @@ export default function About() {
         <div>
           {" "}
           <h1 className="text-center">TOTAL SUPPLY : 1B</h1>
-          <h1 className=" text-center">DEV 5%</h1>
-          <h1 className="text-center">MARKETING 15%</h1>
-          <h1 className="text-center">LP LOCK 80%</h1>
+          <h1 className="text-center">LP LOCK 100%</h1>
           <h1 className="text-center pt-12">CONTRACT ADDRESS</h1>
-          <h1 className="text-center">
-            0xe5697e57AF494d22aBF1884482d09ae47E27537c
-          </h1>
+          <h1 className="text-center">TBA</h1>
         </div>
       </div>
     </div>
