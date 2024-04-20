@@ -44,9 +44,9 @@ export default function Buy() {
             </div>{" "}
             <h1 className="text-center font-semibold">Get Some ETH</h1>
             <p className="text-sm text-center break-words">
-              Have ETH in your wallet to switch to $. If you don’t have any ETH,
-              you can buy ETH from an exchange and send it to Base or cross
-              chain swap here
+              Have ETH in your wallet to switch to MOTION$. If you don’t have
+              any ETH, you can buy ETH from an exchange and send it to Base or
+              cross chain swap here
               https://www.orbiter.finance/?source=Arbitrum&dest=Base&token=ETH
             </p>
           </div>
