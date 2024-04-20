@@ -9,7 +9,7 @@ export default function Home() {
     <div className="px-6 bg-slate-100">
       <Hero />
       <About />
-      <Footer />
+      <Buy />{" "}
     </div>
   );
 }
