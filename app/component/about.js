@@ -26,9 +26,7 @@ export default function About() {
           <h1 className="text-center">TOTAL SUPPLY : 1B</h1>
           <h1 className="text-center">LP LOCK 100%</h1>
           <h1 className="text-center pt-12">CONTRACT ADDRESS</h1>
-          <h1 className="text-center">
-            0x5296eF1623545B4d843d5eB0e45525E473f13f18
-          </h1>
+          <h1 className="text-center">TBA</h1>
         </div>
       </div>
     </div>
