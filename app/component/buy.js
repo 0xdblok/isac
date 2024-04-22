@@ -44,7 +44,7 @@ export default function Buy() {
             </div>{" "}
             <h1 className="text-center font-semibold">Get Some SOL</h1>
             <p className="text-sm text-center break-words">
-              Have SOL in your wallet to switch to APPLE$. If you don’t have any
+              Have SOL in your wallet to switch to $APPLE. If you don’t have any
               SOL, you can buy SOL from an exchange and send it to Solana.
             </p>
           </div>
