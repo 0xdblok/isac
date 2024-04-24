@@ -22,7 +22,7 @@ export default function Heroo() {
               {" "}
               <p className="text-center text-base font-medium  font-sans md:pt-6 ">
                 In the historical backdrop of Woolsthorpe, the birthplace of Sir
-                Isaac Newton, a novel cryptocurrency was born—NEWTON Memecoin.
+                Isaac Newton, a novel cryptocurrency was born—APPLE Memecoin.
                 The brainchild of this venture was a quirky group of crypto
                 enthusiasts who drew inspiration from Newton's groundbreaking
                 theories.
