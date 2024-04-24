@@ -11,7 +11,7 @@ export default function Footer() {
             Join us
           </h1>
         </div>
-        <a href="https://x.com/isaac_newtonsol/">
+        <a href="">
           {" "}
           <Image
             className="lg:w-[40px] lg:h-[40px]"
