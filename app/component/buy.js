@@ -44,8 +44,8 @@ export default function Buy() {
             </div>{" "}
             <h1 className="text-center font-semibold">Get Some SOL</h1>
             <p className="text-sm text-center break-words">
-              Have SOL in your wallet to switch to $NEWTON. If you don’t have
-              any SOL, you can buy SOL from an exchange and send it to Solana.
+              Have SOL in your wallet to switch to $APPLE. If you don’t have any
+              SOL, you can buy SOL from an exchange and send it to Solana.
             </p>
           </div>
           <div className="border-2 border-yellow-400 shadow-xl bg-[#ffd29d] p-8 rounded-lg lg:w-1/4">
@@ -61,8 +61,8 @@ export default function Buy() {
             </div>{" "}
             <h1 className="text-center font-semibold">Go to Jupiter</h1>
             <p className="text-sm text-center">
-              Google jup.ag website. Connect your wallet. Paste the $NEWTON
-              token address into Jupiter and then confirm the swap. Then sign.
+              Google jup.ag website. Connect your wallet. Paste the $APPLE token
+              address into Jupiter and then confirm the swap. Then sign.
             </p>
           </div>
           <div className="border-2 border-yellow-400 shadow-xl bg-[#ffd29d] p-8 rounded-lg lg:w-1/4 ">

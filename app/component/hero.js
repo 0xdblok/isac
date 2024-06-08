@@ -2,7 +2,8 @@ import React from "react";
 import Image from "next/image";
 import logo from "../asset/logo.png";
 import donk from "../asset/donk.png";
-export default function Heroo() {
+
+export default function Hero() {
   return (
     <div className="lg:px-12 px-4 pt-12">
       <div className="flex-none md:flex  md:p-6 p-2 rounded-lg   h-auto md:h-[280px] lg:h-[350px]">

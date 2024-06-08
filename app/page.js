@@ -7,7 +7,7 @@ import Buy from "./component/buy";
 export default function Home() {
   return (
     <div className="px-6 bg-slate-100">
-      <Hero />
+      <Hero/>
       <About />
       <Buy /> <Footer />
     </div>
